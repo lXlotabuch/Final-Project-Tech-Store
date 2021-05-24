@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SummaryComponents render 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-gsTCUz glvBWj"
+  >
+    <h4>
+      Summary
+    </h4>
+    <div
+      class="sc-dlfnbm sc-gKsewC jcczqT kcTMhS"
+    >
+      <div>
+        <p
+          class="sumtotal"
+        >
+          Items total:
+        </p>
+      </div>
+      <div>
+        <span
+          class="sumtotal"
+        >
+          156985₴
+        </span>
+      </div>
+    </div>
+    <div>
+      <button
+        class="ant-btn ant-btn-round sc-bdfBwQ bmYKhg"
+        color="yellow"
+        type="button"
+      >
+        <span>
+          Proceed to Checkout
+        </span>
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,259 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BannerSlider BannerSlider render test 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-iBPRYJ gRTDhe"
+  >
+    <div
+      class="sc-gsTCUz khJLZs"
+    >
+      <div
+        class="ant-carousel"
+      >
+        <div
+          class="slick-slider sc-bdfBwQ mVONy slick-initialized"
+          dir="ltr"
+        >
+          <div
+            class="slick-list"
+          >
+            <div
+              class="slick-track"
+              style="opacity: 1; transform: translate3d(0px, 0px, 0px);"
+            >
+              <div
+                aria-hidden="true"
+                class="slick-slide slick-cloned"
+                data-index="-1"
+                style="width: 0px;"
+                tabindex="-1"
+              >
+                <div>
+                  <div
+                    class="sc-gKsewC fVVspx"
+                    style="width: 100%; display: inline-block;"
+                    tabindex="-1"
+                  >
+                    <img
+                      alt="some img"
+                      class="sc-jSgupP dGFvs"
+                      src="fourth.png"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                aria-hidden="false"
+                class="slick-slide slick-active slick-current"
+                data-index="0"
+                style="outline: none; width: 0px;"
+                tabindex="-1"
+              >
+                <div>
+                  <div
+                    class="sc-gKsewC fVVspx"
+                    style="width: 100%; display: inline-block;"
+                    tabindex="-1"
+                  >
+                    <img
+                      alt="some img"
+                      class="sc-jSgupP dGFvs"
+                      src="first.png"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                aria-hidden="true"
+                class="slick-slide"
+                data-index="1"
+                style="outline: none; width: 0px;"
+                tabindex="-1"
+              >
+                <div>
+                  <div
+                    class="sc-gKsewC fVVspx"
+                    style="width: 100%; display: inline-block;"
+                    tabindex="-1"
+                  >
+                    <img
+                      alt="some img"
+                      class="sc-jSgupP dGFvs"
+                      src="second.png"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                aria-hidden="true"
+                class="slick-slide"
+                data-index="2"
+                style="outline: none; width: 0px;"
+                tabindex="-1"
+              >
+                <div>
+                  <div
+                    class="sc-gKsewC fVVspx"
+                    style="width: 100%; display: inline-block;"
+                    tabindex="-1"
+                  >
+                    <img
+                      alt="some img"
+                      class="sc-jSgupP dGFvs"
+                      src="third.png"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                aria-hidden="true"
+                class="slick-slide"
+                data-index="3"
+                style="outline: none; width: 0px;"
+                tabindex="-1"
+              >
+                <div>
+                  <div
+                    class="sc-gKsewC fVVspx"
+                    style="width: 100%; display: inline-block;"
+                    tabindex="-1"
+                  >
+                    <img
+                      alt="some img"
+                      class="sc-jSgupP dGFvs"
+                      src="fourth.png"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                aria-hidden="true"
+                class="slick-slide slick-cloned"
+                data-index="4"
+                style="width: 0px;"
+                tabindex="-1"
+              >
+                <div>
+                  <div
+                    class="sc-gKsewC fVVspx"
+                    style="width: 100%; display: inline-block;"
+                    tabindex="-1"
+                  >
+                    <img
+                      alt="some img"
+                      class="sc-jSgupP dGFvs"
+                      src="first.png"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                aria-hidden="true"
+                class="slick-slide slick-cloned"
+                data-index="5"
+                style="width: 0px;"
+                tabindex="-1"
+              >
+                <div>
+                  <div
+                    class="sc-gKsewC fVVspx"
+                    style="width: 100%; display: inline-block;"
+                    tabindex="-1"
+                  >
+                    <img
+                      alt="some img"
+                      class="sc-jSgupP dGFvs"
+                      src="second.png"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                aria-hidden="true"
+                class="slick-slide slick-cloned"
+                data-index="6"
+                style="width: 0px;"
+                tabindex="-1"
+              >
+                <div>
+                  <div
+                    class="sc-gKsewC fVVspx"
+                    style="width: 100%; display: inline-block;"
+                    tabindex="-1"
+                  >
+                    <img
+                      alt="some img"
+                      class="sc-jSgupP dGFvs"
+                      src="third.png"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                aria-hidden="true"
+                class="slick-slide slick-cloned"
+                data-index="7"
+                style="width: 0px;"
+                tabindex="-1"
+              >
+                <div>
+                  <div
+                    class="sc-gKsewC fVVspx"
+                    style="width: 100%; display: inline-block;"
+                    tabindex="-1"
+                  >
+                    <img
+                      alt="some img"
+                      class="sc-jSgupP dGFvs"
+                      src="fourth.png"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <button
+        class="sc-dlfnbm sc-eCssSg hjulat HVxUh"
+      >
+        <svg
+          fill="none"
+          height="12"
+          style="margin-left: 8px;"
+          viewBox="0 0 8 12"
+          width="8"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M1 11L6 6L1 1"
+            stroke="white"
+            stroke-linecap="round"
+            stroke-width="2"
+          />
+        </svg>
+      </button>
+      <button
+        class="sc-dlfnbm sc-hKgILt hjulat kahbgR"
+      >
+        <svg
+          fill="none"
+          height="12"
+          style="margin-right: 8px;"
+          viewBox="0 0 8 12"
+          width="8"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M7 1L2 6L7 11"
+            stroke="white"
+            stroke-linecap="round"
+            stroke-width="2"
+          />
+        </svg>
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

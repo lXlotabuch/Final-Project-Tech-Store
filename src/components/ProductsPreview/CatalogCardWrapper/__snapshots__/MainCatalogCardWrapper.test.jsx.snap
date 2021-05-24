@@ -1,0 +1,221 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render CatalogCardWrapper component 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bqyKva eedFii"
+  >
+    <div
+      class="sc-dlfnbm igBMBv hidden"
+    >
+      <a
+        href="#/products/554194"
+      >
+        <div
+          class="sc-hKgILt erucpo"
+        >
+          <img
+            class="sc-eCssSg dQBIqN"
+            src="https://i8.rozetka.ua/goods/18842039/aoc_c27g2zu_bk_images_18842039923.jpg"
+          />
+        </div>
+      </a>
+      <div
+        class="sc-jSgupP jJPaa"
+      >
+        <div
+          class="sc-gKsewC hmCrtp"
+        >
+          <span>
+            <span
+              aria-label="star"
+              class="anticon anticon-star sc-dIUggk cNHwKx"
+              color="#E9A426"
+              role="img"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="star"
+                fill="currentColor"
+                focusable="false"
+                height="1em"
+                viewBox="64 64 896 896"
+                width="1em"
+              >
+                <path
+                  d="M908.1 353.1l-253.9-36.9L540.7 86.1c-3.1-6.3-8.2-11.4-14.5-14.5-15.8-7.8-35-1.3-42.9 14.5L369.8 316.2l-253.9 36.9c-7 1-13.4 4.3-18.3 9.3a32.05 32.05 0 00.6 45.3l183.7 179.1-43.4 252.9a31.95 31.95 0 0046.4 33.7L512 754l227.1 119.4c6.2 3.3 13.4 4.4 20.3 3.2 17.4-3 29.1-19.5 26.1-36.9l-43.4-252.9 183.7-179.1c5-4.9 8.3-11.3 9.3-18.3 2.7-17.5-9.5-33.7-27-36.3z"
+                />
+              </svg>
+            </span>
+            <span
+              aria-label="star"
+              class="anticon anticon-star sc-dIUggk cNHwKx"
+              color="#E9A426"
+              role="img"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="star"
+                fill="currentColor"
+                focusable="false"
+                height="1em"
+                viewBox="64 64 896 896"
+                width="1em"
+              >
+                <path
+                  d="M908.1 353.1l-253.9-36.9L540.7 86.1c-3.1-6.3-8.2-11.4-14.5-14.5-15.8-7.8-35-1.3-42.9 14.5L369.8 316.2l-253.9 36.9c-7 1-13.4 4.3-18.3 9.3a32.05 32.05 0 00.6 45.3l183.7 179.1-43.4 252.9a31.95 31.95 0 0046.4 33.7L512 754l227.1 119.4c6.2 3.3 13.4 4.4 20.3 3.2 17.4-3 29.1-19.5 26.1-36.9l-43.4-252.9 183.7-179.1c5-4.9 8.3-11.3 9.3-18.3 2.7-17.5-9.5-33.7-27-36.3z"
+                />
+              </svg>
+            </span>
+            <span
+              aria-label="star"
+              class="anticon anticon-star sc-dIUggk cNHwKx"
+              color="#E9A426"
+              role="img"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="star"
+                fill="currentColor"
+                focusable="false"
+                height="1em"
+                viewBox="64 64 896 896"
+                width="1em"
+              >
+                <path
+                  d="M908.1 353.1l-253.9-36.9L540.7 86.1c-3.1-6.3-8.2-11.4-14.5-14.5-15.8-7.8-35-1.3-42.9 14.5L369.8 316.2l-253.9 36.9c-7 1-13.4 4.3-18.3 9.3a32.05 32.05 0 00.6 45.3l183.7 179.1-43.4 252.9a31.95 31.95 0 0046.4 33.7L512 754l227.1 119.4c6.2 3.3 13.4 4.4 20.3 3.2 17.4-3 29.1-19.5 26.1-36.9l-43.4-252.9 183.7-179.1c5-4.9 8.3-11.3 9.3-18.3 2.7-17.5-9.5-33.7-27-36.3z"
+                />
+              </svg>
+            </span>
+            <span
+              aria-label="star"
+              class="anticon anticon-star sc-dIUggk cNHwKx"
+              color="#E9A426"
+              role="img"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="star"
+                fill="currentColor"
+                focusable="false"
+                height="1em"
+                viewBox="64 64 896 896"
+                width="1em"
+              >
+                <path
+                  d="M908.1 353.1l-253.9-36.9L540.7 86.1c-3.1-6.3-8.2-11.4-14.5-14.5-15.8-7.8-35-1.3-42.9 14.5L369.8 316.2l-253.9 36.9c-7 1-13.4 4.3-18.3 9.3a32.05 32.05 0 00.6 45.3l183.7 179.1-43.4 252.9a31.95 31.95 0 0046.4 33.7L512 754l227.1 119.4c6.2 3.3 13.4 4.4 20.3 3.2 17.4-3 29.1-19.5 26.1-36.9l-43.4-252.9 183.7-179.1c5-4.9 8.3-11.3 9.3-18.3 2.7-17.5-9.5-33.7-27-36.3z"
+                />
+              </svg>
+            </span>
+            <span
+              aria-label="star"
+              class="anticon anticon-star sc-dIUggk kRZjWn"
+              color="#C4C4C4"
+              role="img"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="star"
+                fill="currentColor"
+                focusable="false"
+                height="1em"
+                viewBox="64 64 896 896"
+                width="1em"
+              >
+                <path
+                  d="M908.1 353.1l-253.9-36.9L540.7 86.1c-3.1-6.3-8.2-11.4-14.5-14.5-15.8-7.8-35-1.3-42.9 14.5L369.8 316.2l-253.9 36.9c-7 1-13.4 4.3-18.3 9.3a32.05 32.05 0 00.6 45.3l183.7 179.1-43.4 252.9a31.95 31.95 0 0046.4 33.7L512 754l227.1 119.4c6.2 3.3 13.4 4.4 20.3 3.2 17.4-3 29.1-19.5 26.1-36.9l-43.4-252.9 183.7-179.1c5-4.9 8.3-11.3 9.3-18.3 2.7-17.5-9.5-33.7-27-36.3z"
+                />
+              </svg>
+            </span>
+          </span>
+          <span
+            class="sc-iBPRYJ CzUqJ"
+          >
+            Reviews (13)
+          </span>
+        </div>
+        <div
+          class="sc-dmlrTW eOBFaY"
+          data-testid="favorite-icon"
+        >
+          <svg
+            fill="none"
+            height="24"
+            viewBox="0 0 17 14"
+            width="27"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M7.68513 2.82536L8.39535 3.54187L9.10557 2.82536C9.77879 2.14617 10.8139 1.375 11.8922 1.375C12.9606 1.375 13.8026 1.73075 14.3714 2.278C14.9374 2.82255 15.2936 3.61414 15.2936 4.60948C15.2936 5.68046 14.8643 6.59251 14.1287 7.47611C13.3739 8.3829 12.3563 9.19134 11.2509 10.0643L11.2252 10.0846C10.2883 10.8241 9.24578 11.647 8.39584 12.5675C7.55422 11.655 6.52157 10.8387 5.59303 10.1047L5.54239 10.0646L5.54198 10.0643C4.43628 9.19109 3.4189 8.38246 2.66433 7.47571C1.92905 6.59215 1.5 5.68023 1.5 4.60948C1.5 3.61414 1.8562 2.82257 2.42223 2.27804C2.99108 1.73079 3.83327 1.375 4.9021 1.375C5.97913 1.375 7.01114 2.14538 7.68513 2.82536Z"
+              stroke-width="1"
+            />
+          </svg>
+        </div>
+      </div>
+      <div
+        class="sc-kstrdz klgLgS"
+      >
+        <span
+          aria-label="check-circle"
+          class="anticon anticon-check-circle sc-hBEYos jkerYy"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="check-circle"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm193.5 301.7l-210.6 292a31.8 31.8 0 01-51.7 0L318.5 484.9c-3.8-5.3 0-12.7 6.5-12.7h46.9c10.2 0 19.9 4.9 25.9 13.3l71.2 98.8 157.2-218c6-8.3 15.6-13.3 25.9-13.3H699c6.5 0 10.3 7.4 6.5 12.7z"
+            />
+          </svg>
+        </span>
+        <span
+          class="sc-fodVxV dHtESb"
+        >
+          in stock
+        </span>
+      </div>
+      <a
+        href="#/products/554194"
+      >
+        <h3
+          class="sc-fubCfw gzMKWB"
+        >
+          Monitor 27" AOC C27G2ZU/BK
+        </h3>
+      </a>
+      <div
+        class="sc-pFZIQ fAfRay"
+      >
+        <div
+          class="sc-jrAGrp dTjkZi"
+        >
+          <div
+            class="sc-kEjbxe oCjHI"
+          >
+            12600 ₴
+          </div>
+          <div
+            class="sc-iqHYGH cRqdkQ"
+          >
+            10600 ₴
+          </div>
+        </div>
+        <button
+          class="ant-btn ant-btn-round sc-hHftDr hpTmWL"
+          type="button"
+        >
+          <span>
+            Add to cart
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`OrderInfoComponent render 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdfBwQ jPtdYN"
+  >
+    <div>
+      <h2>
+        <span
+          class="italic"
+        >
+          test
+        </span>
+        , your order has been accepted.
+      </h2>
+      <h2>
+        Thank you for your purchase.
+      </h2>
+      <p>
+        Your orderNo is:
+        <span>
+          8395086
+        </span>
+      </p>
+      <p>
+        Order total:
+        <span>
+          117400₴
+        </span>
+      </p>
+      <p>
+        Delivery city:
+        <span>
+          Dnipro
+        </span>
+      </p>
+      <p>
+        Delivery branch:
+        <span>
+          Отделение №2: ул. Академика Янгеля, 40
+        </span>
+      </p>
+      <p>
+        Payment method:
+        <span>
+          Payment at the time of receipt of the goods
+        </span>
+      </p>
+      <p>
+        Date:
+        <span>
+          13.04.2021
+        </span>
+      </p>
+      <h2>
+        Our manager will contact you soon.
+      </h2>
+    </div>
+  </div>
+</DocumentFragment>
+`;

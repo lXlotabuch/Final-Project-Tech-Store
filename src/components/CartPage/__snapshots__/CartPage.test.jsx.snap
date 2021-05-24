@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render CartPage component 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="sc-gsTCUz sc-dlfnbm dcszxA gCucIE"
+    >
+      <h3
+        class="sc-bdfBwQ cbmVJ"
+      >
+        Shopping Cart
+      </h3>
+      <div
+        class="sc-hKgILt sc-jSgupP bGMZSh irRWBl"
+      >
+        <summary />
+        <cart-list />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

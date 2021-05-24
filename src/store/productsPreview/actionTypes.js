@@ -1,0 +1,6 @@
+export const GET_GAMING_MONITORS = 'GET_GAMING_MONITORS'
+export const GET_DESKTOPS = 'GET_DESKTOPS'
+export const GET_LAPTOPS = 'GET_LAPTOPS'
+export const GET_TABLETS = 'GET_TABLETS'
+export const START_LOADING = 'START_LOADING'
+export const STOP_LOADING = 'STOP_LOADING'

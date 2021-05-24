@@ -1,0 +1,131 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render DashBoard component shaphot test 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdfBwQ dydVzA"
+  >
+    <aside
+      class="sc-hKgILt emLhCT"
+    >
+      <p>
+        My Dashboard
+      </p>
+    </aside>
+    <div
+      class="sc-dlfnbm cwrOeu"
+    >
+      <h3>
+        Account Information
+      </h3>
+    </div>
+    <div
+      class="sc-eCssSg bJHaJZ"
+    >
+      <div
+        class="sc-jSgupP ddDNyR"
+      >
+        <div
+          class="sc-gKsewC jXkQxd"
+        >
+          <h4>
+            Contact Information
+          </h4>
+          <div>
+            <div
+              class="sc-iBPRYJ gLlUwN"
+            >
+              <p>
+                <span
+                  class="sc-jrAGrp jCuYjM"
+                >
+                  First Name:
+                </span>
+                 
+              </p>
+              <p>
+                <span
+                  class="sc-jrAGrp jCuYjM"
+                >
+                  Last Name:
+                </span>
+                 
+              </p>
+              <p>
+                <span
+                  class="sc-jrAGrp jCuYjM"
+                >
+                  Phone:
+                </span>
+                 
+              </p>
+            </div>
+            <div>
+              <button
+                data-testid="setInfo"
+                id="setInfo"
+                type="submit"
+              >
+                Edit
+              </button>
+              <button
+                id="setPassword"
+                type="submit"
+              >
+                Change Password
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-jSgupP ddDNyR"
+      >
+        <div
+          class="sc-gKsewC jXkQxd"
+        >
+          <h4>
+            Newsletters
+          </h4>
+          <div>
+            <div
+              class="sc-iBPRYJ gLlUwN"
+            >
+              <div
+                class="sc-fubCfw hYEFQe"
+              >
+                <p>
+                  You don't subscribe to our newsletter.
+                </p>
+                <button
+                  type="submit"
+                >
+                  Subscribe
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-jSgupP ddDNyR"
+      >
+        <div
+          style="margin-top: 20px;"
+        >
+          <div>
+            <h5
+              style="text-align: center; font-size: 20px; padding-bottom: 20px;"
+            >
+              My Orders
+            </h5>
+          </div>
+          <div
+            class="sc-hBEYos iwRQNr"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

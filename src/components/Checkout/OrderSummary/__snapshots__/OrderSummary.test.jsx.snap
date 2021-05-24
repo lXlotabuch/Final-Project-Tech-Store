@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`OrderSummary render 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdfBwQ sc-gsTCUz fnKmPD eTbcwS"
+  >
+    <h4>
+      Order summary
+    </h4>
+    <div
+      class="sc-dlfnbm sc-gKsewC jcczqT kcTMhS"
+    >
+      <div>
+        <p
+          class="sumtotal"
+        >
+          Items total:
+        </p>
+      </div>
+      <div>
+        <span
+          class="sumtotal"
+        >
+          ₴125478
+        </span>
+      </div>
+    </div>
+    <div
+      class="sc-dlfnbm sc-gKsewC jcczqT kcTMhS"
+    >
+      <div>
+        <p
+          class="sumtotal"
+        >
+          Shipping:
+        </p>
+      </div>
+      <div>
+        <span
+          class="sumtotal"
+        >
+          ₴124
+        </span>
+      </div>
+    </div>
+    <div
+      class="line"
+    >
+      <div
+        class="sc-dlfnbm sc-gKsewC jcczqT kcTMhS"
+      >
+        <div>
+          <p
+            class="ordertotal"
+          >
+            Order total:
+          </p>
+        </div>
+        <div>
+          <span
+            class="ordertotal"
+          >
+            125602₴
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

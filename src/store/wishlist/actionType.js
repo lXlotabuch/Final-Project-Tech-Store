@@ -1,0 +1,3 @@
+export const UPDATE_WISHLIST = 'UPDATE_WISHLIST'
+export const START_LOADING = 'START_LOADING'
+export const STOP_LOADING = 'STOP_LOADING'

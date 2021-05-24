@@ -1,0 +1,264 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AboutUs render 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="sc-bdfBwQ dydVzA"
+    >
+      <h3
+        class="sc-dlfnbm lbkpYS"
+      >
+        About Us
+      </h3>
+    </div>
+    <div
+      class="sc-hKgILt eVxslf"
+    >
+      <div
+        class="sc-eCssSg gqhNA container"
+      >
+        <div
+          class="sc-jSgupP eBdfjA section"
+        >
+          <div
+            class="sc-bdfBwQ dydVzA"
+          >
+            <div
+              class="sc-gKsewC igzPID"
+            >
+              <div
+                class="sc-iBPRYJ cqYbDf content"
+              >
+                <div
+                  class="sc-fubCfw jaRnvf section-title"
+                >
+                  <p>
+                    A Family That Keeps
+                  </p>
+                  <p>
+                    On Growing
+                  </p>
+                </div>
+                <div
+                  class="sc-pFZIQ iZhJHp section-content"
+                >
+                  <p
+                    class="sc-crrsfI kzbfwo"
+                  >
+                    We always aim to please the home market, supplying great computers and hardware at great prices to non-corporate customers, through our large Melbourne CBD showroom and our online store
+                  </p>
+                  <p>
+                    Shop management approach fosters a strong customer service focus in our staff. We prefer to cultivate long-term client relationships rather than achieve quick sales, demonstrated in the measure of our long-term success
+                  </p>
+                </div>
+              </div>
+              <div
+                class="sc-jrAGrp eSMKpL"
+              >
+                <img
+                  alt="computer"
+                  class="sc-kEjbxe cnqrCr"
+                  src="computer-shop.png"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-jSgupP kGcKFs"
+        >
+          <div
+            class="sc-bdfBwQ dydVzA"
+          >
+            <div
+              class="sc-gKsewC gMDuHH"
+            >
+              <div
+                class="sc-jrAGrp dnkNrt"
+              >
+                <img
+                  alt="computer"
+                  class="sc-kEjbxe MnGyS"
+                  src="keyboard.png"
+                />
+              </div>
+              <div
+                class="sc-iBPRYJ ibTquz content"
+              >
+                <img
+                  alt="logo"
+                  class="sc-iqHYGH kAWxta"
+                  src="logo-icon.png"
+                />
+                <div
+                  class="sc-fubCfw jaRnvf section-title"
+                >
+                  <p>
+                    shop.com
+                  </p>
+                </div>
+                <div
+                  class="sc-pFZIQ iZhJHp section-content"
+                >
+                  <p
+                    class="sc-crrsfI kzbfwo"
+                  >
+                    Shop is a proudly Australian owned, Melbourne based supplier of I.T. goods and services, operating since 1991. Our client base encompasses individuals, small business, corporate and government organisations. We provide complete business IT solutions, centred on high quality hardware and exceptional customer service.
+                  </p>
+                  <p />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-jSgupP eBdfjA section"
+        >
+          <div
+            class="sc-bdfBwQ dydVzA"
+          >
+            <div
+              class="sc-gKsewC igzPID"
+            >
+              <div
+                class="sc-iBPRYJ cqYbDf content"
+              >
+                <img
+                  alt="logo"
+                  class="sc-iqHYGH iJZdNg"
+                  src="heart-icon.png"
+                />
+                <div
+                  class="sc-fubCfw jaRnvf section-title"
+                >
+                  <p>
+                    You re In Safe Hands
+                  </p>
+                  <p />
+                </div>
+                <div
+                  class="sc-pFZIQ iZhJHp section-content"
+                >
+                  <p
+                    class="sc-crrsfI kzbfwo"
+                  >
+                    Experience a 40% boost in computing from last generation. MSI Desktop equips the 10th Gen. Intel® Core™ i7 processor with the upmost computing power to bring you an unparalleled gaming experience.
+                  </p>
+                  <p>
+                    *Performance compared to i7-9700. Specs varies by model.
+                  </p>
+                </div>
+              </div>
+              <div
+                class="sc-jrAGrp eSMKpL"
+              >
+                <img
+                  alt="computer"
+                  class="sc-kEjbxe MnGyS"
+                  src="computer-yellow.jpg"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-jSgupP kGcKFs"
+        >
+          <div
+            class="sc-bdfBwQ dydVzA"
+          >
+            <div
+              class="sc-gKsewC gMDuHH"
+            >
+              <div
+                class="sc-jrAGrp dnkNrt"
+              >
+                <img
+                  alt="computer"
+                  class="sc-kEjbxe MnGyS"
+                  src="computer-colored.png"
+                />
+              </div>
+              <div
+                class="sc-iBPRYJ ibTquz content"
+              >
+                <img
+                  alt="logo"
+                  class="sc-iqHYGH iJZdNg"
+                  src="star-icon.jpg"
+                />
+                <div
+                  class="sc-fubCfw jaRnvf section-title"
+                >
+                  <p>
+                    The Highest Quality of Products
+                  </p>
+                </div>
+                <div
+                  class="sc-pFZIQ iZhJHp section-content"
+                >
+                  <p
+                    class="sc-crrsfI kzbfwo"
+                  >
+                    We guarantee the highest quality of the products we sell. Several decades of successful operation and millions of happy customers let us feel certain about that. Besides, all items we sell pass thorough quality control, so no characteristics mismatch can escape the eye of our professionals
+                  </p>
+                  <p />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-jSgupP eBdfjA section"
+        >
+          <div
+            class="sc-bdfBwQ dydVzA"
+          >
+            <div
+              class="sc-gKsewC igzPID"
+            >
+              <div
+                class="sc-iBPRYJ cqYbDf content"
+              >
+                <img
+                  alt="logo"
+                  class="sc-iqHYGH iJZdNg"
+                  src="car-icon.png"
+                />
+                <div
+                  class="sc-fubCfw jaRnvf section-title"
+                >
+                  <p>
+                    Delivery to All Regions
+                  </p>
+                  <p />
+                </div>
+                <div
+                  class="sc-pFZIQ iZhJHp section-content"
+                >
+                  <p
+                    class="sc-crrsfI kzbfwo"
+                  >
+                    We deliver our goods all across Australia. No matter where you live, your order will be shipped in time and delivered right to your door or to any other location you have stated. The packages are handled with utmost care, so the ordered products will be handed to you safe and sound, just like you expect them to be.
+                  </p>
+                  <p />
+                </div>
+              </div>
+              <div
+                class="sc-jrAGrp eSMKpL"
+              >
+                <img
+                  alt="computer"
+                  class="sc-kEjbxe MnGyS"
+                  src="computer-green.png"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

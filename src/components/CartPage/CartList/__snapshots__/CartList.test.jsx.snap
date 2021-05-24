@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CartListComponent render 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-pFZIQ gQNDJq"
+  >
+    <div
+      class="sc-bdfBwQ dVziVR"
+    >
+      <div
+        class="ant-row"
+      >
+        <div
+          class="ant-col ant-col-5"
+        >
+          Product(s)
+        </div>
+        <div
+          class="ant-col ant-col-7"
+        />
+        <div
+          class="ant-col ant-col-3 price"
+        >
+          Price
+        </div>
+        <div
+          class="ant-col ant-col-5 qty"
+        >
+          Quantity
+        </div>
+        <div
+          class="ant-col ant-col-3 subtotal"
+        >
+          Subtotal
+        </div>
+        <div
+          class="ant-col ant-col-1"
+        />
+      </div>
+    </div>
+    <cart-item
+      cartquantity="1"
+      product="[object Object]"
+    />
+    <cart-item
+      cartquantity="1"
+      product="[object Object]"
+    />
+    <div
+      class="sc-gsTCUz sc-gKsewC gbDRkM ibYfhD"
+    >
+      <div
+        class="margin"
+      >
+        <button
+          class="ant-btn ant-btn-round sc-fubCfw dHSrfa"
+          color="borderGrey"
+          type="button"
+        >
+          <span>
+            Continue Shopping
+          </span>
+        </button>
+      </div>
+      <div
+        class="margin"
+      >
+        <button
+          class="ant-btn ant-btn-round sc-fubCfw bMbmFB"
+          color="black"
+          type="button"
+        >
+          <span>
+            Clear Shopping Cart
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

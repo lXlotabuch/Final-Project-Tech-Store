@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`OrderPageComponent render 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-fubCfw sc-pFZIQ jYBaYX bvRMiD"
+  >
+    <div
+      class="sc-bdfBwQ sc-hKgILt dkvZGM ejUGax"
+    >
+      <h3
+        class="sc-jrAGrp UbNtR"
+      >
+        Order
+      </h3>
+      <div
+        class="sc-gKsewC ixmeZn"
+      >
+        <button
+          class="ant-btn ant-btn-round sc-iBPRYJ iRkwl"
+          color="borderBlue"
+          type="button"
+        >
+          <span>
+            Back to Homepage
+          </span>
+        </button>
+      </div>
+    </div>
+    <order-info />
+  </div>
+</DocumentFragment>
+`;

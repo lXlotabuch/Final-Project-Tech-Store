@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CheckoutComponent render 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-fubCfw sc-pFZIQ jYBaYX bvRMiD"
+  >
+    <div
+      class="sc-bdfBwQ sc-hKgILt dkvZGM ejUGax"
+    >
+      <h3
+        class="sc-jrAGrp UbNtR"
+      >
+        Checkout
+      </h3>
+      <div
+        class="sc-gKsewC ixmeZn"
+      >
+        <button
+          class="ant-btn ant-btn-round sc-iBPRYJ dQKGWT"
+          color="borderGrey"
+          type="button"
+        >
+          <span>
+            Back to cart
+          </span>
+        </button>
+      </div>
+    </div>
+    <div
+      class="sc-bdfBwQ sc-dlfnbm dkvZGM gxjyut"
+    >
+      <order-summary />
+      <div
+        class="sc-iqHYGH dHHPOO"
+      >
+        <form-checkout />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

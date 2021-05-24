@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CatalogBillboard component should render CatalogBillboard component 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdfBwQ cSCxSU"
+    src="https://fuzzmusic.ru/wp-content/uploads/2020/08/pesni-iz-igry-kiberpank-2077-1.jpg"
+  >
+    <h3
+      class="sc-gsTCUz iNRBaP"
+    >
+      gaming monitors
+    </h3>
+    <a
+      class="sc-dlfnbm ddFrFr"
+      href="#/catalog?categories=gamingMonitors"
+    >
+      View all gaming monitors
+    </a>
+  </div>
+</DocumentFragment>
+`;

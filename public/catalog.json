@@ -1,0 +1,135 @@
+{
+   "catalog":[
+      {
+         "catalogNo": 999999,
+         "billboard":{
+            "title":"Custome Builds",
+            "bgImg":"https://i.allo.ua/media/homepage/topbanner/AVD_WXXL_320x490_6.png",
+            "urlToAllProducts":"google.com",
+            "itemNo": 999999
+         },
+         "category":[
+            {
+                  "productSubcategory": "MSI GT Series",
+                  "productItem": [
+                     {
+                        "title":"EX DISPLAY : MSI Pro 16 Flex-036AU 15.6 MULTITOUCH All-In-On",
+                        "img":"https://i.citrus.ua/imgcache/size_180/uploads/shop/e/a/ea6b95a297ddcfaf250e757330879795.jpg",
+                        "reviews":10,
+                        "rating":4,
+                        "previousPrice":20000,
+                        "currentPrice":10000,
+                        "quantity":0,
+                        "productCategory": "MSI GS Series",
+                        "itemNo": 123123
+                     },
+                     {
+                        "title":"EX DISPLAY : MSI Pro 16 Flex-036AU 15.6 MULTITOUCH All-In-On",
+                        "img":"https://i.citrus.ua/imgcache/size_180/uploads/shop/e/a/ea6b95a297ddcfaf250e757330879795.jpg",
+                        "reviews":10,
+                        "rating":4,
+                        "previousPrice":20000,
+                        "currentPrice":10000,
+                        "quantity":0,
+                        "productCategory": "MSI GS Series",
+                        "itemNo": 123124
+                     },
+                     {
+                        "title":"EX DISPLAY : MSI Pro 16 Flex-036AU 15.6 MULTITOUCH All-In-On",
+                        "img":"https://i.citrus.ua/imgcache/size_180/uploads/shop/e/a/ea6b95a297ddcfaf250e757330879795.jpg",
+                        "reviews":10,
+                        "rating":4,
+                        "previousPrice":20000,
+                        "currentPrice":10000,
+                        "quantity":0,
+                        "productCategory": "MSI GS Series",
+                        "itemNo": 123125
+                     },
+                     {
+                        "title":"EX DISPLAY : MSI Pro 16 Flex-036AU 15.6 MULTITOUCH All-In-On",
+                        "img":"https://i.citrus.ua/imgcache/size_180/uploads/shop/e/a/ea6b95a297ddcfaf250e757330879795.jpg",
+                        "reviews":10,
+                        "rating":4,
+                        "previousPrice":20000,
+                        "currentPrice":10000,
+                        "quantity":0,
+                        "productCategory": "MSI GS Series",
+                        "itemNo": 123126
+                     },
+                     {
+                        "title":"EX DISPLAY : MSI Pro 16 Flex-036AU 15.6 MULTITOUCH All-In-On",
+                        "img":"https://i.citrus.ua/imgcache/size_180/uploads/shop/e/a/ea6b95a297ddcfaf250e757330879795.jpg",
+                        "reviews":10,
+                        "rating":4,
+                        "previousPrice":20000,
+                        "currentPrice":10000,
+                        "quantity":0,
+                        "productCategory": "MSI GS Series",
+                        "itemNo": 123127
+                     }
+                  ]
+               },
+               {
+                  "productSubcategory": "MSI GS Series",
+                  "productItem": [
+                     {
+                        "title":"EX DISPLAY : MSI Pro 16 Flex-036AU 15.6 MULTITOUCH All-In-On",
+                        "img":"https://i.citrus.ua/imgcache/size_180/uploads/shop/e/a/ea6b95a297ddcfaf250e757330879795.jpg",
+                        "reviews":10,
+                        "rating":4,
+                        "previousPrice":20000,
+                        "currentPrice":10000,
+                        "quantity":123,
+                        "productCategory": "MSI GS Series",
+                        "itemNo": 123123
+                     },
+                     {
+                        "title":"EX DISPLAY : MSI Pro 16 Flex-036AU 15.6 MULTITOUCH All-In-On",
+                        "img":"https://i.citrus.ua/imgcache/size_180/uploads/shop/e/a/ea6b95a297ddcfaf250e757330879795.jpg",
+                        "reviews":10,
+                        "rating":4,
+                        "previousPrice":20000,
+                        "currentPrice":10000,
+                        "quantity":123,
+                        "productCategory": "MSI GS Series",
+                        "itemNo": 123124
+                     },
+                     {
+                        "title":"EX DISPLAY : MSI Pro 16 Flex-036AU 15.6 MULTITOUCH All-In-On",
+                        "img":"https://i.citrus.ua/imgcache/size_180/uploads/shop/e/a/ea6b95a297ddcfaf250e757330879795.jpg",
+                        "reviews":10,
+                        "rating":4,
+                        "previousPrice":20000,
+                        "currentPrice":10000,
+                        "quantity":123,
+                        "productCategory": "MSI GS Series",
+                        "itemNo": 123125
+                     },
+                     {
+                        "title":"EX DISPLAY : MSI Pro 16 Flex-036AU 15.6 MULTITOUCH All-In-On",
+                        "img":"https://i.citrus.ua/imgcache/size_180/uploads/shop/e/a/ea6b95a297ddcfaf250e757330879795.jpg",
+                        "reviews":10,
+                        "rating":4,
+                        "previousPrice":20000,
+                        "currentPrice":10000,
+                        "quantity":0,
+                        "productCategory": "MSI GS Series",
+                        "itemNo": 123126
+                     },
+                     {
+                        "title":"EX DISPLAY : MSI Pro 16 Flex-036AU 15.6 MULTITOUCH All-In-On",
+                        "img":"https://i.citrus.ua/imgcache/size_180/uploads/shop/e/a/ea6b95a297ddcfaf250e757330879795.jpg",
+                        "reviews":10,
+                        "rating":4,
+                        "previousPrice":20000,
+                        "currentPrice":10000,
+                        "quantity":123,
+                        "productCategory": "MSI GS Series",
+                        "itemNo": 123127
+                     }
+                  ]
+               }
+         ]
+      }
+   ]
+}

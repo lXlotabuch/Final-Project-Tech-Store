@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Catalog component 1`] = `
+<DocumentFragment>
+  <div
+    class="ant-spin ant-spin-lg ant-spin-spinning ant-spin-show-text sc-iwyYcG bSRqYb"
+    margin="200px auto"
+  >
+    <span
+      class="ant-spin-dot ant-spin-dot-spin"
+    >
+      <i
+        class="ant-spin-dot-item"
+      />
+      <i
+        class="ant-spin-dot-item"
+      />
+      <i
+        class="ant-spin-dot-item"
+      />
+      <i
+        class="ant-spin-dot-item"
+      />
+    </span>
+    <div
+      class="ant-spin-text"
+    >
+      Loading...
+    </div>
+  </div>
+</DocumentFragment>
+`;

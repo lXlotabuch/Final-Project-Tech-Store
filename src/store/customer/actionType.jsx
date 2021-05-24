@@ -1,0 +1,5 @@
+export const SET_CUSTOMER_INFO = 'SET_CUSTOMER_INFO';
+export const SET_ORDERS = 'SET_ORDERS';
+export const CLEAR_CUSTOMER = 'CLEAR_CUSTOMER'
+export const START_LOADING = 'START_LOADING';
+export const STOP_LOADING = 'STOP_LOADING';

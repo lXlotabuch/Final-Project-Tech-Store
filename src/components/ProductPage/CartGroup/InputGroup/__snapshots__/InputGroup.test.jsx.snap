@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`All test for input group InputGroup shapshot test 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdfBwQ bKNYfC"
+  >
+    <input
+      class="sc-gsTCUz iyxYNu"
+      value="10"
+    />
+    <div
+      class="sc-dlfnbm iYsBYk"
+    >
+      <div
+        class="sc-hKgILt bLNjfg"
+        id="topArrow"
+      >
+        <svg
+          fill="none"
+          height="5"
+          viewBox="0 0 6 5"
+          width="6"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M1 3.8999L3 1.8999L5 3.8999"
+            stroke="#8C8C8C"
+            stroke-linecap="round"
+            stroke-width="1.6"
+          />
+        </svg>
+      </div>
+      <div
+        class="sc-hKgILt bLNjfg"
+      >
+        <svg
+          fill="none"
+          height="5"
+          viewBox="0 0 6 5"
+          width="6"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M5 0.820068L3 2.82007L1 0.820068"
+            stroke="#8C8C8C"
+            stroke-linecap="round"
+            stroke-width="1.6"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
