@@ -1,3 +1,4 @@
 # The final project online-store.
 
-**DEMO** https://evgeniyshigartsov.github.io/Final_project_Online-store/#/
+**DEMO** https://tech-store-shop.herokuapp.com/
+
